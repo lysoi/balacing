@@ -1,0 +1,9 @@
+main.c:66:6:PWM_Control_1	16	static
+main.c:85:7:PWM_Control_2	16	static
+main.c:102:9:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:118:5:main	8	static
+main.c:167:6:SystemClock_Config	72	static
+main.c:203:13:MX_I2C1_Init	8	static
+main.c:237:13:MX_TIM2_Init	64	static
+main.c:300:13:MX_GPIO_Init	40	static
+main.c:349:6:Error_Handler	4	static,ignoring_inline_asm
