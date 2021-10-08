@@ -6,6 +6,7 @@ phần cứng
   -LM298
   -DC motor GA25
   -mạch thiêt kế trên phần mềm ALTIUM
+
 phần mềm
   -lập trình trên STM32CubeIDE
   
