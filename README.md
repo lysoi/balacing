@@ -8,5 +8,5 @@ phần cứng
   -mạch thiêt kế trên phần mềm ALTIUM
 
 phần mềm
-  -lập trình trên STM32CubeIDE
+   STM32CubeIDE
   
